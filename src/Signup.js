@@ -19,9 +19,9 @@ function Signup() {
    const addData=()=>{
       const sgnData={
         name:SignupData.name,
-        email:SignupData.email,
-        password:SignupData.password,
-        confirmPassword:SignupData.cpassword,
+        Email:SignupData.email,
+        Password:SignupData.password,
+        ConfirmPassword:SignupData.cpassword,
         
       }
       console.log(sgnData);
